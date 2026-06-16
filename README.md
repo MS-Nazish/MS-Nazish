@@ -16,3 +16,4 @@ I am an aspiring Full-Stack and AI Engineer from Pakistan, currently undergoing 
 
 ## 📫 Connect with me
 - Email: infotech8nz@gmail.com
+- linkdin.con https://www.linkedin.com/in/nazish-khan-928898380/
