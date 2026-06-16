@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**MS-Nazish/MS-Nazish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm MS-Nazish 👋
 
-Here are some ideas to get you started:
+I am an aspiring Full-Stack and AI Engineer from Pakistan, currently undergoing intensive bootcamp training. I love building web applications and exploring the world of Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills 
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Python, FastAPI
+- **Databases:** PostgreSQL, MongoDB
+- **AI Tools:** Cursor, ChatGPT, Claude, OpenAI API
+
+## 📈 My Goals
+- Build production-ready full-stack applications.
+- Integrate AI models into web platforms.
+- Collaborate on open-source projects.
+
+## 📫 Connect with me
+- Email: infotech8nz@gmail.com
