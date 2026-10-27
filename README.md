@@ -27,7 +27,7 @@ I build web and mobile apps that solve real problems for local businesses and sc
 A cross-platform (Android / iOS / Web) app with **Admin, Teacher and Parent** roles: attendance, fee vouchers, teacher salaries, exam results with **PDF report cards**, timetables, homework, parent–teacher chat, push alerts, dark mode and full **Urdu / English** support.
 `React Native` `Expo` `TypeScript` `Firebase`
 
-### 🏗️ SiteSync: Construction Site Attendance & Payroll
+### 🏗️ [SiteSync: Construction Site Attendance & Payroll](https://github.com/MS-Nazish/sitesync)
 **[🔗 Live demo](https://sitesync-pi.vercel.app)**
 
 A MERN web + Android app for contractors: **GPS-geofenced, photo-verified** labour attendance, automatic **weekly payroll** with advances, PDF / Excel wage slips, WhatsApp / SMS sharing, offline PWA mode and Urdu / English.
