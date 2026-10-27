@@ -16,8 +16,17 @@ I build web and mobile apps that solve real problems for local businesses and sc
 | **Frontend** | React, React Native (Expo), TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Flutter |
 | **Backend** | Node.js, Express, Python, FastAPI, REST APIs, JWT auth |
 | **Databases & cloud** | MongoDB, PostgreSQL, Firebase / Firestore, Supabase |
+| **Data** | Data analysis, data cleaning, data visualization, R |
 | **Other** | Unity & C# (3D), PWAs, Git & GitHub |
-| **AI tools** | OpenAI API, Claude, ChatGPT, Cursor |
+| **AI tools** | OpenAI API, Claude, ChatGPT, Cursor, prompt engineering |
+
+---
+
+## 🎓 Certifications
+
+[![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NRRMRFJCK7AL)
+[![Google AI Essentials](https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/D3LPF5O205GF)
+[![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting_Essentials-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/7NNGIJQVQ371)
 
 ---
 
