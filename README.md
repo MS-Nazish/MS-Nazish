@@ -24,6 +24,8 @@ I build web and mobile apps that solve real problems for local businesses and sc
 ## 🚀 Featured projects
 
 ### 📚 [SchoolHub: School Management App](https://github.com/MS-Nazish/schoolhub-school-management-app)
+**[📱 Download Android APK](https://github.com/MS-Nazish/schoolhub-school-management-app/releases/tag/v1.2.0)**
+
 A cross-platform (Android / iOS / Web) app with **Admin, Teacher and Parent** roles: attendance, fee vouchers, teacher salaries, exam results with **PDF report cards**, timetables, homework, parent–teacher chat, push alerts, dark mode and full **Urdu / English** support.
 `React Native` `Expo` `TypeScript` `Firebase`
 
